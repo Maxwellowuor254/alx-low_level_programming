@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * Read text file print to standard output.
- * ~filename: reading of text file
- * ~letters: count of letters to be read
+ * read_textfile - Reading text of the file print to standard output.
+ * @filename: reading of text file
+ * @letters: count of letters to be read
  * Return: w- actual number of bytes read and printed
  *        0 when function fails or filename is NULL.
  */
