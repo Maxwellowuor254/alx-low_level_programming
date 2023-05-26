@@ -1,7 +1,9 @@
 #include "main.h"
 
 /**
- * checking if a machine is little or big endian
+ * flip_bits -checking if a machine is little or big endian
+ * @n: variable
+ * @m: variable
  * Return: 0 for big, 1 for little
  */
 
